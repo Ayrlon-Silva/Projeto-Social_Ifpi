@@ -1,0 +1,30 @@
+[
+  {
+    "id": 4,
+    "titulo": "Saúde e Bem-Estar",
+    "conteudo": "Manter o bem-estar físico e mental é essencial para uma vida equilibrada. O cuidado com a saúde deve ser uma prioridade diária. Pequenos hábitos saudáveis podem fazer uma grande diferença a longo prazo. Não negligencie seu bem-estar, ele é a chave para uma vida plena.",
+    "data": "2025-07-22T02:19:29.560Z",
+    "curtidas": 23
+  },
+  {
+    "id": 3,
+    "titulo": "Sustentabilidade Ambiental",
+    "conteudo": "Preservar o meio ambiente é crucial para o futuro das próximas gerações. Cada ação nossa tem um impacto, e precisamos ser conscientes das nossas escolhas. A sustentabilidade não é uma opção, mas uma necessidade urgente. Devemos agir agora para garantir um planeta habitável no futuro.'",
+    "data": "2025-07-21T02:51:22.615Z",
+    "curtidas": 8
+  },
+  {
+    "id": 2,
+    "titulo": "Tecnologia e Inovação",
+    "conteudo": "Vivemos em uma era onde a tecnologia avança a passos largos. Inovações constantes estão mudando a forma como vivemos, trabalhamos e nos comunicamos. É essencial acompanhar essas mudanças para não ficarmos para trás. A tecnologia tem o poder de transformar o mundo em que vivemos.",
+    "data": "2025-07-21T02:27:38.750Z",
+    "curtidas": 6
+  },
+  {
+    "id": 1,
+    "titulo": "A Importância da Educação",
+    "conteudo": "A educação é a base para uma sociedade mais justa e equitativa. Ela promove o desenvolvimento individual e coletivo, permitindo que pessoas realizem seu potencial. Investir em educação é investir no futuro de todos nós.\n",
+    "data": "2025-07-21T02:25:40.738Z",
+    "curtidas": 7
+  }
+]
