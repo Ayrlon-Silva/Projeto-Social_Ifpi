@@ -32,3 +32,7 @@ Este projeto é uma aplicação web simples para simular uma rede social. A apli
 - Listagem dos comentários em ordem cronológica
 
 ---
+
+## 🎥Vídeo
+
+📺 **Link do vídeo:** *https://drive.google.com/file/d/1JChjpc3ZeG1H8VaQXiuuHKwk-ktzEz1E/view?usp=sharing*
